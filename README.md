@@ -27,6 +27,7 @@ I’m Maria, full stack web developer focused on Frontend development, innovativ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="40" height="40" />
@@ -44,6 +45,8 @@ I’m Maria, full stack web developer focused on Frontend development, innovativ
 
 ##
 
+
+
    📫  How to reach me :
 <p>
 <div> <a href="https://www.linkedin.com/in/mariapaulav"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /> </a> </div>
@@ -51,6 +54,17 @@ I’m Maria, full stack web developer focused on Frontend development, innovativ
 <div>
 💌 mariapaulaviviz@gmail.com
 </div>
+
+## 
+
+   👩‍💻  Currently learning :
+   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"  />
+
+
+          
+          
+
 <!--
 **mariapaulav/mariapaulav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
