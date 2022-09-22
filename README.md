@@ -14,8 +14,7 @@
   :sparkles: About me :
 <p>
 
-I’m Maria, full stack web developer focused on Frontend development, innovative, motivated and passionate about learning new technologies with self-taught methods. I have knowledge in JavaScript, React, Redux, among others. Finished an intensive bootcamp, and now I'm ready to apply my passion for coding to a talented team to develop quality solutions.
-
+I’m Maria, full stack web developer focused on Frontend development, innovative, motivated and passionate about learning new technologies with self-taught methods. I have knowledge in JavaScript, React.js, Next.js, Redux, Tailwind CSS, among others. Finished an intensive bootcamp (700 hours), and now Im ready to apply my passion for coding to a talented team to develop quality solutions.
 ##
 
   :hammer_and_wrench: Languages and Tools :
@@ -27,14 +26,18 @@ I’m Maria, full stack web developer focused on Frontend development, innovativ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="40" height="40" />
+  <br>
+    <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40" />
+    <br>
+      <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" />
