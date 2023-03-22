@@ -14,7 +14,7 @@
   :sparkles: About me :
 <p>
 
-I’m Maria, full stack web developer focused on Frontend development, innovative, motivated and passionate about learning new technologies with self-taught methods. I have knowledge in JavaScript, React.js, Next.js, Redux, Tailwind CSS, among others. Finished an intensive bootcamp (700 hours), and now Im ready to apply my passion for coding to a talented team to develop quality solutions.
+Hi, my name is Maria! I am a motivated and innovative frontend developer who is passionate about learning new technologies. I have a self-taught approach to learning and have gained knowledge in various technologies such as JavaScript, React.js, and Jest, among others. I am always looking for new challenges to enhance my skills and create cutting-edge solutions.
 ##
 
   :hammer_and_wrench: Languages and Tools :
